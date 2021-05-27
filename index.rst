@@ -1,36 +1,26 @@
-I am your career counsellor
-========================================
-Very frequently my colleagues, friends, job seekers even relatives are asking me a very common questions given below..
+==============================
+Welcome to My Technical Blog
+==============================
+The information contained within my technical blog is strictly for educational purposes. If you wish to apply ideas contained in this blog, you are taking full responsibility 
+for your actions. The author has made every effort to ensure the accuracy of the information within this blog was correct at time of publication.
 
-* How easy to learn python?
-* How long will it take to learn Python?
-* Can I learn python in a month?
-* Can a beginner learn Python?
-* Can I learn Python without any programming experience?
-* Will learning Python get me a job?
+.. warning::
+   The author does not assume and hereby disclaims any liability to any party for any loss, damage, or disruption caused by 
+   errors or omissions, whether such errors or omissions result from accident, negligence, or any other cause.
 
-Most learners take at least three months to complete this path. To be clear, though, you could probably spend a lifetime learning Python. 
-There are hundreds of libraries, many of them regularly improving and evolving, and the language itself also changes over time.
+Preface
+=========
+I start writing this technical blog to help myself to identify things quickly and in the same time it helps python practitioners, like you, get on top of python/data expert, fast. 
+In this technical platform I used python as a programming language in most of the case.
 
-The language is easy to pick up, but you need to do more than just learn the basics; to get a job, 
-you need to have a strong understanding of some pretty complex processes. Python is a general-purpose language, 
-which means it isn't used for just one purpose such as Web development.
-
-About me
-========================================
-I'm a python data scientist, working in a renowned MNC for last 12 years. 
-If you would like to consult with me regarding career, jobs, training or anything else then whatsapp me in **+919738726005**.
-
-.. raw:: html
-
-   <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_Frssvcwea0jsxE"></script></form>
-
-My consultation fee ₹500 
-
-.. image:: _static/washim.png
+A Better Way
+==============
+This technical blog was born out of my frustrations at seeing practitioner after practitioner diving into python textbooks and online courses designed for undergraduate students and giving up.
+The bottom-up approach is hard, especially if you already have a full time job.  Python is not only important to machine learning, but it is also a lot of fun, or can be if it is 
+approached in the right way. I put together this blog to help you see the field the way I see it:  as just another set of tools we can harness on our journey toward 
+python learning.
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Practical Training
-   
-   training
+   :hidden:
+
+   learn-python

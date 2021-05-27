@@ -1,17 +1,8 @@
-.wy-nav-content {
-    max-width: none;
-}
-
-.wy-side-nav-search > div.version {
-    color: gold;
-    font-weight: bold;
-}
-
-.wy-side-nav-search .wy-dropdown > a, .wy-side-nav-search > a {
-    font-size: 17px;
-    margin-bottom: 5px;
-}
-
-div.document {
-    max-width: 800px;
-}
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
+body{font-family: 'Open Sans', sans-serif; font-size: 15px;}
+.logo-image{max-width: initial;}
+.simple li p, table p{margin-bottom: 0px;}
+.myfooter{padding: 15px;}
+.admonition-title{font-weight: bold;}
+h1{font-size: 25px;}
+h2, .toc-title-project{font-size: 20px;}
